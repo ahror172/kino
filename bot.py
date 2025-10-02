@@ -12,8 +12,8 @@ from telegram.ext import (
 )
 
 # --- SOZLAMALAR ---
-BOT_TOKEN = "8396156004:AAEi8LkjXXR7JOvCkdPLgtIiOQ6r5Q7LW8M"
-ADMINS = [2145258033]
+BOT_TOKEN = ""
+ADMINS = []
 CHANNEL_FILE = "channels.json"
 USERS_FILE = "users.json"
 DB_FILE = "movies.db"
